@@ -11,8 +11,6 @@ Este repositório reúne projetos desenvolvidos ao longo do meu roadmap de apren
 - Criação de Controllers e rotas RESTful
 - Injeção de dependência
 - Middlewares
-- Pipeline de requisições
-- Configuração de ambientes e appsettings
 
 ---
 
