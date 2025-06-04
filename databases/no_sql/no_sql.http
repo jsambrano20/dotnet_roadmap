@@ -1,0 +1,6 @@
+@no_sql_HostAddress = http://localhost:5159
+
+GET {{no_sql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

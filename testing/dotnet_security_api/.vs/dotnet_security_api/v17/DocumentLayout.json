@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\testing\\dotnet_security_api\\dotnet_security_api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|solutionrelative:dotnet_security_api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\testing\\dotnet_security_api\\dotnet_security_api\\services\\basicauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|solutionrelative:dotnet_security_api\\services\\basicauthhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\testing\\dotnet_security_api\\dotnet_security_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|solutionrelative:dotnet_security_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\testing\\dotnet_security_api\\dotnet_security_api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|solutionrelative:dotnet_security_api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\testing\\dotnet_security_api\\dotnet_security_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0ADA934C-AF2C-44E8-8252-215825C4BFDE}|dotnet_security_api\\dotnet_security_api.csproj|solutionrelative:dotnet_security_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet_security_api\\Program.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Program.cs",
+              "RelativeToolTip": "dotnet_security_api\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:14:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "dotnet_security_api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Services\\JwtService.cs",
+              "RelativeToolTip": "dotnet_security_api\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:11:59.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\appsettings.json",
+              "RelativeDocumentMoniker": "dotnet_security_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\appsettings.json",
+              "RelativeToolTip": "dotnet_security_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T21:14:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "dotnet_security_api\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "dotnet_security_api\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:13:53.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicAuthHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Services\\BasicAuthHandler.cs",
+              "RelativeDocumentMoniker": "dotnet_security_api\\Services\\BasicAuthHandler.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\testing\\dotnet_security_api\\dotnet_security_api\\Services\\BasicAuthHandler.cs",
+              "RelativeToolTip": "dotnet_security_api\\Services\\BasicAuthHandler.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswCwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T21:12:03.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

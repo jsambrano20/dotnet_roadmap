@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "dotnet_security_api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "dotnet_security_api.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dotnet_security_api.Controllers.ValuesController",
+    "Method": "GetBasicProtected",
+    "RelativePath": "api/Values/basic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "dotnet_security_api.Controllers.ValuesController",
+    "Method": "GetJwtProtected",
+    "RelativePath": "api/Values/jwt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

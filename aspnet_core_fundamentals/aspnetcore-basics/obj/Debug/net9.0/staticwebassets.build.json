@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Mn9A/ZojgwPxVQw4Qiry6PjlkhwlV63xTj3gVcUcxgo=",
+  "Source": "aspnetcore-basics",
+  "BasePath": "_content/aspnetcore-basics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

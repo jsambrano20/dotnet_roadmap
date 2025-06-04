@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "h7GpwqLxDzM399Zvbg+9jsL3xvjAMa53EbdfYyLJABI=",
+  "Source": "sql",
+  "BasePath": "_content/sql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "V+fkcPL/N2gLLW4alPgozCOLhFKNETIK6rW6kWNRdEY=",
+  "Source": "dotnet_security_api",
+  "BasePath": "_content/dotnet_security_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

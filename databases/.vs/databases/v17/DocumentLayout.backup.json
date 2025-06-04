@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7399AC-8F31-4B5F-9202-DDA8B8A4CB00}|no_sql\\no_sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\no_sql\\endpoints\\pessoamodelendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7399AC-8F31-4B5F-9202-DDA8B8A4CB00}|no_sql\\no_sql.csproj|solutionrelative:no_sql\\endpoints\\pessoamodelendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7399AC-8F31-4B5F-9202-DDA8B8A4CB00}|no_sql\\no_sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\no_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7399AC-8F31-4B5F-9202-DDA8B8A4CB00}|no_sql\\no_sql.csproj|solutionrelative:no_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\data\\context\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\data\\context\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|c:\\users\\sambr\\onedrive\\\u00E1rea de trabalho\\pocs\\roadmap\\databases\\sql\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC35C87E-C940-4FA7-A15E-FFD1991E6C5B}|sql\\sql.csproj|solutionrelative:sql\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "sql\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "sql\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:11:43.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaModelEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\no_sql\\Endpoints\\PessoaModelEndpoints.cs",
+              "RelativeDocumentMoniker": "no_sql\\Endpoints\\PessoaModelEndpoints.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\no_sql\\Endpoints\\PessoaModelEndpoints.cs",
+              "RelativeToolTip": "no_sql\\Endpoints\\PessoaModelEndpoints.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:11:12.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\no_sql\\Program.cs",
+              "RelativeDocumentMoniker": "no_sql\\Program.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\no_sql\\Program.cs",
+              "RelativeToolTip": "no_sql\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:10:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "sql\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "sql\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:09:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "sql\\Data\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "sql\\Data\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:09:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Program.cs",
+              "RelativeDocumentMoniker": "sql\\Program.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Program.cs",
+              "RelativeToolTip": "sql\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:58:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\appsettings.json",
+              "RelativeDocumentMoniker": "sql\\appsettings.json",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\appsettings.json",
+              "RelativeToolTip": "sql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T01:08:03.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Context\\SqlDbContext.cs",
+              "RelativeDocumentMoniker": "sql\\Data\\Context\\SqlDbContext.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Data\\Context\\SqlDbContext.cs",
+              "RelativeToolTip": "sql\\Data\\Context\\SqlDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:57:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "sql\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\sambr\\OneDrive\\\u00C1rea de Trabalho\\pocs\\ROADMAP\\databases\\sql\\Model\\Product.cs",
+              "RelativeToolTip": "sql\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:57:18.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
